@@ -1,6 +1,6 @@
 # A full stack Inventory management system
 
-### Live Site: https://inventory-navy.vercel.app
+
 
 <!-- ### Backend Server: https://inventory-420.vercel.app -->
 
@@ -44,13 +44,7 @@
    - Weekly
    - Daily
 
-# Pages
 
-<img src='./asset/1.png'>
-<img src='./asset/2.png'>
-<img src='./asset/3.png'>
-<img src='./asset/4.png'>
-<img src='./asset/5.png'>
 
 ### How to run application locally
 
