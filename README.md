@@ -47,13 +47,9 @@
 
 ### How to run application locally
 
-1. Create a `.env` file to `client` folder and add the environment variable
 
-```bash
 
-```
-
-2. Create a `.env` file to `server` folder and add the environment variable
+1. Create a `.env` file to `server` folder and add the environment variable
 
 ```bash
    NODE_ENV=dev
@@ -62,7 +58,7 @@
    JWT_SECRET=your_secret_key
 ```
 
-3. Install the dependencies and run backend
+2. Install the dependencies and run backend
 
 ```bash
 
@@ -76,7 +72,7 @@
 
 ```
 
-4. Install the dependencies and run frontend
+3. Install the dependencies and run frontend
 
 ```bash
 
