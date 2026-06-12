@@ -2,7 +2,6 @@
 
 
 
-<!-- ### Backend Server: https://inventory-420.vercel.app -->
 
 ### Technologies
 
@@ -51,7 +50,7 @@
 1. Create a `.env` file to `client` folder and add the environment variable
 
 ```bash
-   VITE_BASE_URL=http://localhost:8000/api/v1
+
 ```
 
 2. Create a `.env` file to `server` folder and add the environment variable
